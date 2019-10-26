@@ -872,7 +872,7 @@ The following libraries are used by OpenTTD for:
 OpenTTD does not require any of the libraries to be present, but without
 liblzma you cannot open most recent savegames and without zlib you cannot
 open most older savegames or use the content downloading system.
-Without libSDL/liballegro on non-Windows and non-macOS machines you have
+Without libSDL/libSDL2/liballegro on non-Windows and non-macOS machines you have
 no graphical user interface; you would be building a dedicated server.
 
 ### 7.2) Supported compilers
