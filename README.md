@@ -858,7 +858,7 @@ See the docs/Readme_OS2.txt file for more information.
 
 The following libraries are used by OpenTTD for:
 
-- libSDL/liballegro: hardware access (video, sound, mouse)
+- libSDL/libSDL2/liballegro: hardware access (video, sound, mouse)
 - zlib: (de)compressing of old (0.3.0-1.0.5) savegames, content downloads,
    heightmaps
 - liblzo2: (de)compressing of old (pre 0.3.0) savegames
